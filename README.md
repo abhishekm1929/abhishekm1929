@@ -1,16 +1,16 @@
-# 💫 Hi 👋, I'm Abhishek Mishra
-**A passionate B.Tech Student | Aspiring AI/ML Engineer | Software Developer | Cloud Enthusiast**
+# 👋 Hi, I'm Abhishek Mishra
 
-Email Me 👉 ✉️ **abhishekmishra2899@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+### Software Developer | AI/ML Enthusiast | B.Tech CSE Student
 
-- 🔭 **I’m currently working on:** AI/ML projects and cloud-based applications
-- 🌱 **I’m currently learning:** Advanced Machine Learning, Full-Stack Development, and Cloud Infrastructure (AWS, Azure)
-- 👯 **I’m looking to collaborate on:** Open-source AI/ML projects, Cloud-based apps, and Hackathons
-- 💬 **Ask me about:** AI/ML concepts, Python development, Cloud tech, or project collaboration
-- 📫 **How to reach me:** abhishekmishra2899@gmail.com
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I can train ML models while sipping chai and debugging cloud issues at the same time 😄
+I'm a Computer Science undergraduate passionate about building scalable software, AI-powered applications, and solving real-world problems through technology.
 
+💻 Skilled in Python, JavaScript, MERN Stack, REST APIs, Database Management, and Data Structures & Algorithms.
+
+🚀 Built AI-powered applications using Google Gemini AI and modern web technologies.
+
+📈 Solved 390+ DSA problems across coding platforms and continuously improving problem-solving skills.
+
+🎯 Currently seeking Software Development, Backend Development, and AI/ML Internship opportunities.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishekm1929&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
